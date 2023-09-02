@@ -23,7 +23,7 @@ Test the button in action here: [Live Demo](https://srjgit86.github.io/catchME_i
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/catch-me-button.git
+   git clone https://github.com/SrJGit86/catchME_if_you_Can.git
    ```
 
 ## Usage
